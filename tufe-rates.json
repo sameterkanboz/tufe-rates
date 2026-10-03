@@ -2,7 +2,7 @@
   "source": "TÜİK Tüketici Fiyat Endeksi bulletin table — rate of change in 12 month averages (2025=100)",
   "unit": "percent",
   "keySemantics": "TUIK data month (YYYY-MM); a contract renewed in month M uses the rate of month M-1",
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-10-03",
   "rates": {
     "2005-01": 8.5,
     "2005-02": 8.44,
@@ -262,6 +262,7 @@
     "2026-04": 32.43,
     "2026-05": 32.24,
     "2026-06": 32.03,
-    "2026-07": 31.9
+    "2026-07": 31.9,
+    "2026-08": 31.79
   }
 }
